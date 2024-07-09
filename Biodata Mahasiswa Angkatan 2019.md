@@ -13,7 +13,7 @@
    Alamat : Jln. Bantuas RT.01 No.18
  
 3. Nama   : Indah Istiqomah
-   NIM    : H2020000003
+   NIM    : H202000006
    JK     : Perempuan
    Agama  : Islam
    TTL    : Samarinda, 22 Desember 2002
